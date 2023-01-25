@@ -1,0 +1,34 @@
+{
+  "features": {
+    "weight": [
+      {
+        "feature": "f2",
+        "importance": 60.0
+      },
+      {
+        "feature": "f3",
+        "importance": 40.0
+      }
+    ],
+    "gain": [
+      {
+        "feature": "f2",
+        "importance": 52.88114
+      },
+      {
+        "feature": "f3",
+        "importance": 47.11886
+      }
+    ],
+    "cover": [
+      {
+        "feature": "f2",
+        "importance": 49.68922
+      },
+      {
+        "feature": "f3",
+        "importance": 50.31078
+      }
+    ]
+  }
+}

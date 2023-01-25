@@ -1,0 +1,64 @@
+{
+  "category_loss_per_step": [
+    {
+      "steps": 0,
+      "loss": 0.03,
+      "category": "train-merror"
+    },
+    {
+      "steps": 5,
+      "loss": 0.03,
+      "category": "train-merror"
+    },
+    {
+      "steps": 10,
+      "loss": 0.03,
+      "category": "train-merror"
+    },
+    {
+      "steps": 15,
+      "loss": 0.03,
+      "category": "train-merror"
+    },
+    {
+      "steps": 20,
+      "loss": 0.03,
+      "category": "train-merror"
+    },
+    {
+      "steps": 25,
+      "loss": 0.03,
+      "category": "train-merror"
+    },
+    {
+      "steps": 0,
+      "loss": 0.1,
+      "category": "validation-merror"
+    },
+    {
+      "steps": 5,
+      "loss": 0.1,
+      "category": "validation-merror"
+    },
+    {
+      "steps": 10,
+      "loss": 0.1,
+      "category": "validation-merror"
+    },
+    {
+      "steps": 15,
+      "loss": 0.1,
+      "category": "validation-merror"
+    },
+    {
+      "steps": 20,
+      "loss": 0.1,
+      "category": "validation-merror"
+    },
+    {
+      "steps": 25,
+      "loss": 0.1,
+      "category": "validation-merror"
+    }
+  ]
+}

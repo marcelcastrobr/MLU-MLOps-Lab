@@ -1,0 +1,16 @@
+{
+  "labels_and_samples": [
+    {
+      "labels": "0",
+      "num_samples_per_label": 96.0
+    },
+    {
+      "labels": "1",
+      "num_samples_per_label": 102.0
+    },
+    {
+      "labels": "2",
+      "num_samples_per_label": 102.0
+    }
+  ]
+}
